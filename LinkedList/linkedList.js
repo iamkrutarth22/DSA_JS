@@ -95,7 +95,7 @@ class LinkedList {
     const node = new Node(value);
     this.head = node;
     this.length = 1;
-  }
+  }22
 
   push(value) {
     let newNode = new Node(value);

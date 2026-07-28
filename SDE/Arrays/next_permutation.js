@@ -19,7 +19,7 @@ let input = [3, 5, 1, 7];
 //     }
 
 //     for(let i=0; i<input.length;i++){
-//         if(!visited[i]){
+//         if(!visited[i]){ 
 //             visited[i]=true;
 //             ds.push(input[i]);
 //             permutation(input,ds,visited,ans)
